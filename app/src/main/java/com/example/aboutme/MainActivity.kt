@@ -17,6 +17,9 @@ class MainActivity : AppCompatActivity() {
      * Mais testes - segundo commit
      */
 
+    /**
+     * Mais testes - segundo commit 3 - meet com rodrigão rei do swing trade
+     */
 
     private lateinit var binding: ActivityMainBinding
     private lateinit var texto: String
