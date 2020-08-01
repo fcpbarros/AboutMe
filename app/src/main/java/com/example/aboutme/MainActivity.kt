@@ -17,6 +17,10 @@ class MainActivity : AppCompatActivity() {
      * Mais testes - segundo commit
      */
 
+    /**
+     * Mais testes - terceiro commit
+     */
+
 
     private lateinit var binding: ActivityMainBinding
     private lateinit var texto: String
