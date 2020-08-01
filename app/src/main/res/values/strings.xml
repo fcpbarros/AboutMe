@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">AboutMe App</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi. My name is %1$s \n\n
+                        The goal of this app is to work with dataBinding
+                        and scrollview. \n\n This is a scrollable view but I have no idea about what I should write
+                        in here in order to look smart. \n\n I am a master\'s degree student at University of Pernambuco.
+                        I am 27 years old and most of the time I just coded for fun. \n  I have experience in Android (Kotlin and Java) and my goal after learning
+                        android is to learn React Native and code for both Android and iOS. \n\n My hobbies are playing soccer, jogging on the beach and investments. \n\n
+                        I also like teaching people things I know. \n\n I started coding in Android in 2019 in a school project and developed a
+                        QRcode reader application connected to Firebase Database in order to monitor classroom in order to better control the start and end of the classes as well as
+                        professors\' presence and regularity.</string>
+    <string name="nickname">What is your nickname?</string>
+    <string name="done_button_string">DONE!</string>
+</resources>
