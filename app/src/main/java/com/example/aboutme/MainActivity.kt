@@ -1,15 +1,18 @@
 package com.example.aboutme
 
 import android.content.Context
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.view.inputmethod.InputMethodManager
+import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
 import com.example.aboutme.databinding.ActivityMainBinding
-import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
+    /**
+     * Testando modificações com o gitHub desktop
+     */
+
 
     private lateinit var binding: ActivityMainBinding
     private lateinit var texto:String
@@ -47,7 +50,7 @@ class MainActivity : AppCompatActivity() {
 
         binding.apply{
             //adicionar o nickname em nickName_view
-            nome_nickname?.nickname = nicknameEdit.text.toString()
+            nome_nickname.nickname = nicknameEdit.text.toString()
             invalidateAll()
             binding.bioText.text = texto
             //mudar a visibilidade de nickName_view
