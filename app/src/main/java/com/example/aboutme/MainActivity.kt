@@ -13,11 +13,15 @@ class MainActivity : AppCompatActivity() {
      * Testando modificações com o gitHub desktop
      */
 
+    /**
+     * Mais testes - segundo commit
+     */
+
 
     private lateinit var binding: ActivityMainBinding
-    private lateinit var texto:String
+    private lateinit var texto: String
 
-    private val nome_nickname:MeuNome = MeuNome("AboutMe App")
+    private val nome_nickname: MeuNome = MeuNome("AboutMe App")
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
