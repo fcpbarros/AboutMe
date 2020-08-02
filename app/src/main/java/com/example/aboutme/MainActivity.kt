@@ -20,10 +20,14 @@ class MainActivity : AppCompatActivity() {
     /**
      * Mais testes - segundo commit 3 - meet com rodrigão rei do swing trade
      */
-    
-     /**
+
+    /**
      * Mais testes - Arquivo editado externamente. Neste caso a edição foi feita no próprio repositório
      * no github
+     */
+
+    /**
+     * Edição feita em teste_branch
      */
 
     private lateinit var binding: ActivityMainBinding
